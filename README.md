@@ -3,13 +3,15 @@ The NBA-Themed Paint Project is an interactive Python application that allows us
 
 ## Features
 ### Custom Drawing Tools
-Users can create original artwork using a variety of tools including, pencil, lines, shapes, fill tool, custom player-inspired stickers, and spray can with its texture.
+Users can create original artwork using a variety of tools including, pencil, marker, paint brush, airbrush, lines, shapes, fill tool, custom player-inspired stickers, and spray can with its texture.
 ### Colour Wheel
 Features a range of colors, including red, grey, black, blue, green, yellow, and white.
 ### NBA-Inspired Design
 The interface includes basketball-themed backgrounds and graphics.
 ### Sound Effects
 Plays the ESPN theme song continuously in the background.
+### Undo/Redo and Clear Canvas
+Artists can undo something they did not like, redo something they realize they liked later on in the drawing process. They can also clear the entire canvas if they wish to restart the entire art piece.
 ### Save/Load Canvas
 Users can save their creations or load existing files for further editing.
 
