@@ -23,9 +23,9 @@ Python 3.7+
 - Standard Python Libraries (os, math, random)
 
 ## Installation
-1) Ensure all image folders provided are on your desktop
+1) Ensure the image folder 'paint' is on your desktop
 2) Clone the repository or download the file titled AV.paint
-3) Run the scipt:
+3) When Python file is on your desktop as well, run the scipt:
 > pip install pygame
 4) Ensure your system has tkinter installed (This is usually included in the Python installation process).
 
@@ -37,9 +37,11 @@ Python 3.7+
 - Pygame documentation for graphics and sound integration.
 - Tkinter documentation for file dialog implementation.
 
+## Demo
+<img width="1212" alt="Screen Shot 2025-01-16 at 8 50 50 PM" src="https://github.com/user-attachments/assets/7c20676f-d847-449e-8138-0f715b7974d1" />
+
 ## Contact
 For any questions, feedback, or collaboration opportunities, feel free to reach out:
 - Name: Aleksa Vucak
 - Email: aleksavucak@gmail.com
 - LinkedIn: www.linkedin.com/in/aleksa-vucak-587923298
-
